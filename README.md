@@ -1,4 +1,4 @@
-# CS400_Project3_Chasing_Game
+# Hunter_Player_Catching_Game
 
 ## Basic Gameplay
 ### Characters
